@@ -1,0 +1,9 @@
+title = "Nintendogs+cats: French bulldog and new freinds"
+description = "Nintendogs + Cats French Bulldog & His New Friends is a management game for Nintendo 3DS. The player takes care of his own pet, after having chosen it according to its breed at the kennel. Like a real animal, you have to take care of him, walk him, and make him participate in discus, lure race and obedience contests."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000031100"
+region = "eur"
+release_date = "2011-03-25"
