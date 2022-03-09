@@ -1,0 +1,19 @@
+title = "Nintendogs + Cats: French Bulldog And New Friends"
+description = "Nintendogs + Cats is a real-time pet simulation video game for the Nintendo 3DS. It is a sequel to the Nintendogs games for the Nintendo DS systems. This is one of the 3 versions of the game."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000030C00"
+region = "eur"
+release_date = "2011-03-25"
+
+[[releases]]
+title = "0004000000031100"
+region = "eur"
+release_date = "2011-03-25"
+
+[[releases]]
+title = "0004000000031200"
+region : "usa"
+release_date : "2011-03-27"
